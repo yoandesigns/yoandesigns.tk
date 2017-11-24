@@ -1,0 +1,69 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yoandesigns.tk" resolutions="1x" timestamp="1511533673065">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="134263945" ref="contact-me:index:portfolio:about-me:price-list"/>
+    <file name="contact-me.css" crc="342248975" ref="contact-me"/>
+    <file name="index.css" crc="4261656605" ref="index"/>
+    <file name="portfolio.css" crc="285283807" ref="portfolio"/>
+    <file name="about-me.css" crc="92395915" ref="about-me"/>
+    <file name="price-list.css" crc="44977514" ref="price-list"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="require.js" crc="4157109226" ref="index:about-me:price-list:portfolio:contact-me"/>
+    <file name="webpro.js" crc="242022427" ref="contact-me"/>
+    <file name="form_check.php" crc="147359589" ref="contact-me"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact-me"/>
+    <file name="form_process.php" crc="3851993751" ref="contact-me"/>
+    <file name="form-u954.php" crc="3835563875" ref="contact-me"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="391284284" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-logo.png" crc="391284284" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u384-4.png" crc="4048535130" ref="index"/>
+    <file name="button bad-buy a design.png" crc="3783605842" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button bad.png" crc="298805542" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social media kit.png" crc="4035198407" seo="true" ref="price-list">
+      <caption webpage="price-list" alt=""/>
+    </file>
+    <file name="youtube kit.png" crc="3784274357" seo="true" ref="price-list">
+      <caption webpage="price-list" alt=""/>
+    </file>
+    <file name="untitled-2.png" crc="4272098170" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-21-crop-u848.png" crc="3912693218" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo a.png" crc="93944562" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo2.png" crc="121137247" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="лого.png" crc="100880688" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u900-4.png" crc="4116515262" ref="contact-me"/>
+  </folder>
+  <file name="index.html" crc="3824084208" seo="true" mt="1511293212771" redirect="true"/>
+  <file name="about-me.html" crc="170699845" seo="true" mt="1511293212771" redirect="true"/>
+  <file name="price-list.html" crc="236140133" seo="true" mt="1511293212771" redirect="true"/>
+  <file name="portfolio.html" crc="3956595283" seo="true" mt="1511531365319" redirect="true"/>
+  <file name="contact-me.html" crc="3890621974" seo="true" mt="1511376476245" redirect="true"/>
+</manifest>
